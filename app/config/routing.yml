@@ -1,0 +1,5 @@
+atrapalo_app:
+    resource: "@AtrapaloAppBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
